@@ -2,6 +2,7 @@
 *.js.map
 *.log
 !scripts/*.js
+.DS_Store
 
 # demo-ng
 demo-ng/app/*.js
