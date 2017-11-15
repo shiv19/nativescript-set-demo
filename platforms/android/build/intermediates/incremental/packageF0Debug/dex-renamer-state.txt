@@ -1,0 +1,4 @@
+#Wed Nov 15 02:05:21 IST 2017
+base.0=/Users/shiv19/Work/NsExp/SET Demo/platforms/android/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/shiv19/Work/NsExp/SET Demo/platforms/android/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main/classes.dex

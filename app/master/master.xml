@@ -1,0 +1,26 @@
+<Page class="page"
+    navigatingTo="onNavigatingTo"  
+    xmlns:IC="nativescript-image-cache"
+    xmlns="http://www.nativescript.org/tns.xsd">
+
+    <ActionBar title="NativeScript Dev Experts" class="action-bar">
+    </ActionBar>
+    <ListView items="{{ masterData }}" itemTap="onItemTap">
+        <ListView.itemTemplate>
+            <GridLayout padding="10" rows="auto" columns="80, *">
+                <IC:NSImage id="{{ id + 'image' }}"
+                    row="0" col="0"
+                    height="80" width="80"
+                    src="{{ imageUrl }}">
+                </IC:NSImage> 
+                <StackLayout verticalAlignment="center"
+                    marginLeft="10" row="0" col="1">
+                    <Label id="{{ id + 'name' }}"
+                        text="{{ name }}" />
+                    <Label id="{{ id + 'description' }}"
+                        textWrap="true" text="{{ description }}" />
+                </StackLayout>
+            </GridLayout>
+        </ListView.itemTemplate>
+    </ListView>
+</Page>

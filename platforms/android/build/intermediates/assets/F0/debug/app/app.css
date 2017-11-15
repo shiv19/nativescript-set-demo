@@ -1,0 +1,8 @@
+﻿.btn {
+    font-size: 18;
+}
+.fa {
+    font-family: FontAwesome;
+}
+
+@import "nativescript-theme-core/css/core.light.css";

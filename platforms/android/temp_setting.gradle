@@ -1,0 +1,13 @@
+android {
+            defaultConfig {
+                applicationId = "com.shiv19.setdemo"
+
+                if (false) {
+                    minSdkVersion = false
+                }
+
+                if (false) {
+                    targetSdkVersion = false
+                }
+            }
+        }

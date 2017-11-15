@@ -1,0 +1,81 @@
+{
+  "_from": "nativescript-image-cache",
+  "_id": "nativescript-image-cache@1.1.2",
+  "_inBundle": false,
+  "_integrity": "sha512-ko/fn1l4H0nv7beP1km8X/OF28fpe7LyqI1pI0PVXCf7mNY1k1s/cjJMO0A3RnxZEy/e/veE6Z+/C/I+RzYsAQ==",
+  "_location": "/nativescript-image-cache",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nativescript-image-cache",
+    "name": "nativescript-image-cache",
+    "escapedName": "nativescript-image-cache",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-image-cache/-/nativescript-image-cache-1.1.2.tgz",
+  "_shasum": "bde020af03026cf0b3b82974ed1c0e9f9116bc49",
+  "_spec": "nativescript-image-cache",
+  "_where": "/Users/shiv19/Work/NsExp/SET Demo",
+  "author": {
+    "name": "Yesarela Ritonga",
+    "email": "yezarela@gmail.com",
+    "url": "https://github.com/yezarela"
+  },
+  "bugs": {
+    "url": "https://github.com/yezarela/nativescript-image-cache/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Yesarela Ritonga",
+      "email": "yezarela@gmail.com",
+      "url": "https://github.com/yezarela"
+    },
+    {
+      "name": "Blake Nussey",
+      "email": "blake.nussey@gmail.com",
+      "url": "https://github.com/bnussey"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Nativescript image caching plugin using Fresco for Android and SDWebImageCache for iOS",
+  "devDependencies": {
+    "tns-core-modules": "^3.0.0",
+    "tns-platform-declarations": "^3.0.1",
+    "typescript": "^2.3.2"
+  },
+  "homepage": "https://github.com/yezarela/nativescript-image-cache#readme",
+  "keywords": [
+    "Nativescript",
+    "Image-cache",
+    "Fresco",
+    "SDWebImageCache"
+  ],
+  "license": "MIT",
+  "main": "ns-image-cache",
+  "name": "nativescript-image-cache",
+  "nativescript": {
+    "platforms": {
+      "android": "3.0.0",
+      "ios": "3.0.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yezarela/nativescript-image-cache.git"
+  },
+  "scripts": {
+    "build": "tsc -p .",
+    "dev": "npm link && cd ../demo && npm link nativescript-image-cache && tns plugin add ../src/"
+  },
+  "typings": "ns-image-cache.d.ts",
+  "version": "1.1.2"
+}

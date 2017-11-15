@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/shiv19/Work/NsExp/SET Demo/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xxxhdpi/logo.png",
+        "source": "/Users/shiv19/Work/NsExp/SET Demo/platforms/android/src/main/res/drawable-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/shiv19/Work/NsExp/SET Demo/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xxxhdpi/background.png",
+        "source": "/Users/shiv19/Work/NsExp/SET Demo/platforms/android/src/main/res/drawable-xxxhdpi/background.png"
+    },
+    {
+        "merged": "/Users/shiv19/Work/NsExp/SET Demo/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xxxhdpi/icon.png",
+        "source": "/Users/shiv19/Work/NsExp/SET Demo/platforms/android/src/main/res/drawable-xxxhdpi/icon.png"
+    }
+]
