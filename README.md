@@ -6,6 +6,7 @@ Inspired by [this](https://medium.com/@aitorvs/android-shared-element-transition
 Also Inspired by [this](https://youtu.be/VwO3vQmEpJE?t=788) video by Alex Ziskind
 
 # Demo [Android]
-<video src="assets/set-demo.mp4" width="320" height="200" controls preload></video>
+<img src="./assets/set-demo.gif" />
+For actual reference, see the mp4 video in the assets folder
 
 More details coming soon
