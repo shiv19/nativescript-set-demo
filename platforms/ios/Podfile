@@ -1,0 +1,9 @@
+use_frameworks!
+
+target "SETDemo" do
+# Begin Podfile - /Users/shiv19/Work/NsExp/SET Demo/node_modules/nativescript-image-cache/platforms/ios/Podfile 
+ pod 'SDWebImage', '~> 4.0.0'
+ 
+ # End Podfile 
+
+end

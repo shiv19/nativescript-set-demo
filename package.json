@@ -7,6 +7,9 @@
         "id": "com.shiv19.setdemo",
         "tns-android": {
             "version": "3.3.1"
+        },
+        "tns-ios": {
+            "version": "3.3.0"
         }
     },
     "dependencies": {
